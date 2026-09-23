@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Angel Alberto Arista Villanueva</title>
+<desc id="desc">Ingeniería, diseño y experiencias digitales. CDMX, México.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#142436" stroke-width="1"/></pattern><linearGradient id="line"><stop stop-color="#0080FF"/><stop offset="1" stop-color="#39FF14"/></linearGradient></defs>
+<rect width="1200" height="360" rx="16" fill="#080E18"/><rect width="1200" height="360" rx="16" fill="url(#grid)"/>
+<path d="M0 3H1200" stroke="url(#line)" stroke-width="6"/>
+<g font-family="monospace"><text x="56" y="63" fill="#39FF14" font-size="16">AAAV / CREATIVE DEVELOPER</text><text x="56" y="132" fill="#F2F7FF" font-size="46" font-weight="700">Angel Alberto</text><text x="56" y="188" fill="#F2F7FF" font-size="46" font-weight="700">Arista Villanueva</text><text x="56" y="240" fill="#62B0FF" font-size="20">INGENIERÍA + DISEÑO + EXPERIENCIAS DIGITALES</text><text x="56" y="307" fill="#A5B5C9" font-size="16">CDMX, MÉXICO · ANIMACIÓN / WEB / BRANDING / IA</text></g>
+<g fill="none" stroke-width="3"><path d="m1025 104-55 60 55 60m65-120 55 60-55 60" stroke="#0080FF"/><path d="m1074 85-34 158" stroke="#39FF14"/><path d="M970 279h170" stroke="url(#line)"/></g>
+</svg>
