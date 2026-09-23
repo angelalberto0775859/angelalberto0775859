@@ -1,6 +1,6 @@
 ![Angel Alberto Arista Villanueva](assets/glass-header.svg)
 
-<p align="center">
+<p>
 
 <a href="https://angel-arista-villanueva.lovable.app"><img src="assets/app-portfolio.svg" alt="Portafolio" width="130" /></a>
 
