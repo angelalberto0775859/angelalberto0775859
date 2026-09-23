@@ -1,10 +1,10 @@
 ![Angel Alberto Arista Villanueva — Ingeniería, diseño y experiencias digitales](assets/header.svg)
 
 <p align="center">
-  <a href="https://angel-arista-villanueva.lovable.app"><img alt="Ver portafolio" src="https://img.shields.io/badge/PORTAFOLIO-0080FF?style=for-the-badge&amp;logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0080FF?style=for-the-badge&amp;logoColor=white" /></a>
-  <a href="https://wa.me/525625660729"><img alt="Contactar por WhatsApp" src="https://img.shields.io/badge/WHATSAPP-39FF14?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=080E18" /></a>
-  <a href="mailto:angelalberto077@gmail.com"><img alt="Enviar correo" src="https://img.shields.io/badge/EMAIL-39FF14?style=for-the-badge&amp;logoColor=080E18" /></a>
+  <a href="https://angel-arista-villanueva.lovable.app"><img alt="Portafolio" src="assets/portfolio.svg" width="150" height="40" /></a>
+  <a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/"><img alt="LinkedIn" src="assets/linkedin.svg" width="150" height="40" /></a>
+  <a href="https://wa.me/525625660729"><img alt="WhatsApp" src="assets/whatsapp.svg" width="150" height="40" /></a>
+  <a href="mailto:angelalberto077@gmail.com"><img alt="Contacto" src="assets/email.svg" width="150" height="40" /></a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Aquí comparto la parte de código de mi trabajo. En mi [portafolio](https://ang
 ### Herramientas
 
 <details open>
-<summary><b>🔵 Desarrollo web — abrir / cerrar</b></summary>
+<summary><b>Desarrollo web · explorar</b></summary>
 
 - **React, TypeScript y HTML** para sitios, interfaces y plataformas digitales.
 - **Figma** para diseño de interfaces y experiencia de usuario.
@@ -33,7 +33,7 @@ Aquí comparto la parte de código de mi trabajo. En mi [portafolio](https://ang
 </details>
 
 <details>
-<summary><b>🟢 Diseño, animación y producción — abrir / cerrar</b></summary>
+<summary><b>Diseño, animación y producción · explorar</b></summary>
 
 - **Blender** para modelado y trabajo en 3D.
 - **After Effects y Premiere Pro** para animación, motion graphics y edición audiovisual.
@@ -43,7 +43,7 @@ Aquí comparto la parte de código de mi trabajo. En mi [portafolio](https://ang
 </details>
 
 <details>
-<summary><b>🔵 Marketing, contenido e IA — abrir / cerrar</b></summary>
+<summary><b>Marketing, contenido e IA · explorar</b></summary>
 
 - **Meta Ads, Google Ads y Google Analytics** para campañas y análisis de resultados.
 - Estrategia de contenido, calendarios editoriales y gestión de comunidades.
@@ -65,7 +65,7 @@ Aquí comparto la parte de código de mi trabajo. En mi [portafolio](https://ang
 [**Dr. Juan Carlos Arista**](https://cuidadodeldolor.lovable.app) — diseño y desarrollo de una plataforma médica para medicina del dolor y cuidados paliativos, con funciones de gestión de pacientes, citas y seguimiento administrativo.
 
 <details>
-<summary><b>🟢 Explorar proyectos de identidad y producción audiovisual</b></summary>
+<summary><b>Explorar proyectos de identidad y producción audiovisual</b></summary>
 
 - **Congreso Nacional de Marketing:** identidad visual y producción del escenario de inteligencia artificial.
 - **Statega:** identidad corporativa para una agencia de estrategia digital, con un isotipo que comunica velocidad, dirección y tecnología.
@@ -77,7 +77,7 @@ Aquí comparto la parte de código de mi trabajo. En mi [portafolio](https://ang
 </details>
 
 <details>
-<summary><b>🔵 Explorar mis repositorios en GitHub</b></summary>
+<summary><b>Explorar mis repositorios en GitHub</b></summary>
 
 - [Central-de-Alarmas](https://github.com/angelalberto0775859/Central-de-Alarmas)
 - [Paginasweb](https://github.com/angelalberto0775859/Paginasweb)
