@@ -1,17 +1,72 @@
-![Angel Alberto Arista Villanueva — Ingeniería, diseño y experiencias digitales](assets/glass-header.svg)
+![Angel Alberto Arista Villanueva](assets/glass-header.svg)
 
 <p align="center">
-  <a href="https://angel-arista-villanueva.lovable.app"><img alt="Portafolio" src="assets/portfolio.svg" width="150" height="40" /></a>
-  <a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/"><img alt="LinkedIn" src="assets/linkedin.svg" width="150" height="40" /></a>
-  <a href="https://wa.me/525625660729"><img alt="WhatsApp" src="assets/whatsapp.svg" width="150" height="40" /></a>
-  <a href="mailto:angelalberto077@gmail.com"><img alt="Contacto" src="assets/email.svg" width="150" height="40" /></a>
+
+<a href="https://angel-arista-villanueva.lovable.app"><img src="assets/app-portfolio.svg" alt="Portafolio" width="130" /></a>
+
+<a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/"><img src="assets/app-linkedin.svg" alt="LinkedIn" width="130" /></a>
+
+<a href="https://wa.me/525625660729"><img src="assets/app-whatsapp.svg" alt="WhatsApp" width="130" /></a>
+
+<a href="mailto:angelalberto077@gmail.com"><img src="assets/app-email.svg" alt="Contacto" width="130" /></a>
+
 </p>
 
-<p align="center">
-  <a href="#sobre-mí">Sobre mí</a> · <a href="#herramientas">Herramientas</a> · <a href="#proyectos">Proyectos</a> · <a href="#cv-y-contacto">CV y contacto</a>
-</p>
+<p align="center"><a href="#sobre-mí">Sobre mí</a> · <a href="#herramientas">Herramientas</a> · <a href="#proyectos">Proyectos</a> · <a href="#cv-y-contacto">CV y contacto</a></p>
 
----
+### Sobre mí
+
+![Ingeniería + creatividad](assets/about-glass.svg)
+
+### Herramientas
+
+![Desarrollo web](assets/web-glass.svg)
+
+![Diseño y producción](assets/design-glass.svg)
+
+![Marketing e IA](assets/marketing-glass.svg)
+
+### Proyectos
+
+[<img src="assets/project-0.svg" alt="QuiénOpina: identidad visual, sistema de diseño editorial y estrategia de contenido para una plataforma de inteligencia social que analiza tendencias y opinión pública con IA. Mi participación conecta los datos con una comunicación visual comprensible." width="1200" />](https://quienopina.mx)
+
+[<img src="assets/project-1.svg" alt="Vexel Digital: dirección creativa y desarrollo. Colaboro en proyectos de desarrollo web, branding y producción audiovisual para clientes de distintos sectores." width="1200" />](https://vexel.digital)
+
+[<img src="assets/project-2.svg" alt="Geriactive: diseño y desarrollo de un sitio para un centro de terapia especializado en personas mayores, con foco en accesibilidad y claridad de la información." width="1200" />](https://geriactive.mx)
+
+[<img src="assets/project-3.svg" alt="SecretBloom: diseño y desarrollo de una tienda en línea para una florería, con una estética cálida y una experiencia orientada a explorar productos y realizar pedidos." width="1200" />](https://eflora.lovable.app)
+
+[<img src="assets/project-4.svg" alt="Dr. Juan Carlos Arista: diseño y desarrollo de una plataforma médica para medicina del dolor y cuidados paliativos, con funciones de gestión de pacientes, citas y seguimiento administrativo." width="1200" />](https://cuidadodeldolor.lovable.app)
+
+<details>
+<summary><b>Más proyectos de identidad y producción</b></summary>
+
+![Identidad y producción](assets/creative-glass.svg)
+
+[Explorar casos en mi portafolio →](https://angel-arista-villanueva.lovable.app/#proyectos)
+
+</details>
+
+<details>
+<summary><b>Explorar repositorios</b></summary>
+
+- [Central-de-Alarmas](https://github.com/angelalberto0775859/Central-de-Alarmas)
+- [Paginasweb](https://github.com/angelalberto0775859/Paginasweb)
+- [publicaciones](https://github.com/angelalberto0775859/publicaciones)
+- [bapal](https://github.com/angelalberto0775859/bapal)
+
+[Ver todos mis repositorios →](https://github.com/angelalberto0775859?tab=repositories)
+
+</details>
+
+### CV y contacto
+
+![Construyamos algo juntos](assets/contact-glass.svg)
+
+[Portafolio](https://angel-arista-villanueva.lovable.app) · [LinkedIn](https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/) · [WhatsApp](https://wa.me/525625660729) · [Contacto](mailto:angelalberto077@gmail.com)
+
+<details>
+<summary><b>Leer toda la información en texto accesible</b></summary>
 
 ### Sobre mí
 
@@ -104,3 +159,6 @@ Para consultas sobre un repositorio, abre un issue en ese proyecto. Para propues
 ---
 
 **CDMX, México** · Ingeniería, creatividad y estrategia.
+
+
+</details>
