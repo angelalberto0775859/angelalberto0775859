@@ -1,4 +1,4 @@
-![Angel Alberto Arista Villanueva — Ingeniería, diseño y experiencias digitales](assets/header.svg)
+![Angel Alberto Arista Villanueva — Ingeniería, diseño y experiencias digitales](assets/glass-header.svg)
 
 <p align="center">
   <a href="https://angel-arista-villanueva.lovable.app"><img alt="Portafolio" src="assets/portfolio.svg" width="150" height="40" /></a>
