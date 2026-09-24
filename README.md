@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <img alt="Angel Alberto Arista Villanueva — Digital Animation & Game Engineering. Web development, visual identity and audiovisual production. Mexico City." src="assets/hero-light.svg" width="100%">
 </picture>
@@ -97,22 +99,28 @@ This profile is the code side of that work. My [portfolio](https://angel-arista-
 **Web development** — React, TypeScript and HTML for sites, interfaces and digital platforms. Figma for interface and experience design. VS Code, Codex and Claude as everyday working tools.
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/chips-web-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/chips-web-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/chips-web-dark.svg">
-  <img alt="React, TypeScript, HTML, CSS, Figma, Git" src="assets/chips-web-light.svg" height="34">
+  <img alt="React, TypeScript, HTML, CSS, Figma, Git" src="assets/chips-web-light.svg">
 </picture>
 
 **Design, animation and production** — Blender for 3D modeling and simulation. After Effects and Premiere Pro for motion graphics and editing. Illustrator, Photoshop and Affinity for visual identity and graphic pieces. Particle simulation, visual effects and digital animation, with an engineering foundation underneath.
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/chips-design-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/chips-design-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/chips-design-dark.svg">
-  <img alt="Blender, After Effects, Premiere Pro, Illustrator, Photoshop, Affinity" src="assets/chips-design-light.svg" height="34">
+  <img alt="Blender, After Effects, Premiere Pro, Illustrator, Photoshop, Affinity" src="assets/chips-design-light.svg">
 </picture>
 
 **Marketing, content and AI** — Meta Ads, Google Ads and Google Analytics for campaigns and performance analysis. Content strategy, editorial calendars and community management. AI applied to creative processes and visual content.
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/chips-marketing-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/chips-marketing-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/chips-marketing-dark.svg">
-  <img alt="Meta Ads, Google Ads, Google Analytics, Content strategy, AI tooling" src="assets/chips-marketing-light.svg" height="34">
+  <img alt="Meta Ads, Google Ads, Google Analytics, Content strategy, AI tooling" src="assets/chips-marketing-light.svg">
 </picture>
 
 ---
