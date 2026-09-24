@@ -1,16 +1,16 @@
 <picture><source media="(max-width: 600px)" srcset="assets/hero-mobile.svg"><img alt="Angel Alberto Arista Villanueva — Digital Animation &amp; Game Engineering. Web development, visual identity and audiovisual production. Mexico City." src="assets/hero.svg" width="100%"></picture>
 
-<p align="center"><a href="https://angel-arista-villanueva.lovable.app"><picture><source media="(max-width: 600px)" srcset="assets/btn-portfolio-mobile.svg"><img alt="View portfolio" src="assets/btn-portfolio.svg" height="38"></picture></a>
-<a href="mailto:angelalberto077@gmail.com"><picture><source media="(max-width: 600px)" srcset="assets/btn-contact-mobile.svg"><img alt="Get in touch" src="assets/btn-contact.svg" height="38"></picture></a></p>
+<p align="center"><a href="https://angel-arista-villanueva.lovable.app"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-portfolio-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/btn-portfolio-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img alt="View portfolio" src="assets/btn-portfolio-light.svg" height="38"></picture></a>
+<a href="mailto:angelalberto077@gmail.com"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-contact-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/btn-contact-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/btn-contact-dark.svg"><img alt="Get in touch" src="assets/btn-contact-light.svg" height="38"></picture></a></p>
 
-<p align="center"><a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/"><picture><source media="(max-width: 600px)" srcset="assets/btn-linkedin-mobile.svg"><img alt="LinkedIn" src="assets/btn-linkedin.svg" height="34"></picture></a>
-<a href="https://wa.me/525625660729"><picture><source media="(max-width: 600px)" srcset="assets/btn-whatsapp-mobile.svg"><img alt="WhatsApp" src="assets/btn-whatsapp.svg" height="34"></picture></a>
-<a href="mailto:angelalberto077@gmail.com"><picture><source media="(max-width: 600px)" srcset="assets/btn-email-mobile.svg"><img alt="Email" src="assets/btn-email.svg" height="34"></picture></a>
-<a href="https://github.com/angelalberto0775859?tab=repositories"><picture><source media="(max-width: 600px)" srcset="assets/btn-repos-mobile.svg"><img alt="Repositories" src="assets/btn-repos.svg" height="34"></picture></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-linkedin-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-linkedin-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-linkedin-dark.svg"><img alt="LinkedIn" src="assets/ic-linkedin-light.svg" height="40"></picture></a>
+<a href="https://wa.me/525625660729"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-whatsapp-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-whatsapp-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-whatsapp-dark.svg"><img alt="WhatsApp" src="assets/ic-whatsapp-light.svg" height="40"></picture></a>
+<a href="mailto:angelalberto077@gmail.com"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-email-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-email-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-email-dark.svg"><img alt="Email" src="assets/ic-email-light.svg" height="40"></picture></a>
+<a href="https://github.com/angelalberto0775859?tab=repositories"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-github-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-github-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-github-dark.svg"><img alt="GitHub repositories" src="assets/ic-github-light.svg" height="40"></picture></a></p>
 
 <br>
 
-## About
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/band-about-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/band-about-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/band-about-dark.svg"><img alt="About" src="assets/band-about-light.svg" width="100%"></picture>
 
 I'm an engineer in Digital Animation and Video Games with a specialty in Graphic Simulation, based in Mexico City. My work sits between web development, brand identity and audiovisual production — I turn ideas into digital experiences with a clear intent behind them.
 
@@ -18,9 +18,7 @@ A project might start with a brand looking for its visual language, a site that 
 
 This profile is the code side of that work. My [portfolio](https://angel-arista-villanueva.lovable.app) covers the rest: branding, animation, content and audiovisual production.
 
----
-
-## Selected work
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/band-work-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/band-work-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/band-work-dark.svg"><img alt="Selected work" src="assets/band-work-light.svg" width="100%"></picture>
 
 **[QuiénOpina](https://quienopina.mx)** — Visual identity, editorial design system and content strategy for a social intelligence platform that reads trends and public opinion with AI. My part connects the data to a visual language people can actually follow.
 
@@ -49,25 +47,21 @@ This profile is the code side of that work. My [portfolio](https://angel-arista-
 
 </details>
 
----
-
-## Toolkit
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/band-toolkit-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/band-toolkit-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/band-toolkit-dark.svg"><img alt="Toolkit" src="assets/band-toolkit-light.svg" width="100%"></picture>
 
 **Web development** — React, TypeScript and HTML for sites, interfaces and digital platforms. Figma for interface and experience design. VS Code, Codex and Claude as everyday working tools.
 
-<picture><source media="(max-width: 600px)" srcset="assets/chips-web-mobile.svg"><img alt="React, TypeScript, HTML, CSS, Figma, Git" src="assets/chips-web.svg"></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/chips-web-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/chips-web-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/chips-web-dark.svg"><img alt="React, TypeScript, HTML, CSS, Figma, Git" src="assets/chips-web-light.svg"></picture>
 
 **Design, animation and production** — Blender for 3D modeling and simulation. After Effects and Premiere Pro for motion graphics and editing. Illustrator, Photoshop and Affinity for visual identity and graphic pieces. Particle simulation, visual effects and digital animation, with an engineering foundation underneath.
 
-<picture><source media="(max-width: 600px)" srcset="assets/chips-design-mobile.svg"><img alt="Blender, After Effects, Premiere Pro, Illustrator, Photoshop, Affinity" src="assets/chips-design.svg"></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/chips-design-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/chips-design-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/chips-design-dark.svg"><img alt="Blender, After Effects, Premiere Pro, Illustrator, Photoshop, Affinity" src="assets/chips-design-light.svg"></picture>
 
 **Marketing, content and AI** — Meta Ads, Google Ads and Google Analytics for campaigns and performance analysis. Content strategy, editorial calendars and community management. AI applied to creative processes and visual content.
 
-<picture><source media="(max-width: 600px)" srcset="assets/chips-marketing-mobile.svg"><img alt="Meta Ads, Google Ads, Google Analytics, Content strategy, AI tooling" src="assets/chips-marketing.svg"></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/chips-marketing-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/chips-marketing-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/chips-marketing-dark.svg"><img alt="Meta Ads, Google Ads, Google Analytics, Content strategy, AI tooling" src="assets/chips-marketing-light.svg"></picture>
 
----
-
-## Repositories
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/band-repos-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/band-repos-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/band-repos-dark.svg"><img alt="Repositories" src="assets/band-repos-light.svg" width="100%"></picture>
 
 | Repository | Stack | Notes |
 | :--- | :--- | :--- |
@@ -79,9 +73,7 @@ This profile is the code side of that work. My [portfolio](https://angel-arista-
 
 [Browse all repositories →](https://github.com/angelalberto0775859?tab=repositories)
 
----
-
-## Contact
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/band-contact-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/band-contact-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/band-contact-dark.svg"><img alt="Contact" src="assets/band-contact-light.svg" width="100%"></picture>
 
 Open to freelance projects, collaborations and full-time roles.
 
@@ -96,4 +88,9 @@ For questions about a specific repository, open an issue there. For work or coll
 
 <br>
 
-<sub>Mexico City, Mexico · Engineering, creativity and strategy.</sub>
+<p align="center"><a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-linkedin-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-linkedin-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-linkedin-dark.svg"><img alt="LinkedIn" src="assets/ic-linkedin-light.svg" height="40"></picture></a>
+<a href="https://wa.me/525625660729"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-whatsapp-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-whatsapp-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-whatsapp-dark.svg"><img alt="WhatsApp" src="assets/ic-whatsapp-light.svg" height="40"></picture></a>
+<a href="mailto:angelalberto077@gmail.com"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-email-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-email-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-email-dark.svg"><img alt="Email" src="assets/ic-email-light.svg" height="40"></picture></a>
+<a href="https://github.com/angelalberto0775859?tab=repositories"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-github-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-github-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-github-dark.svg"><img alt="GitHub repositories" src="assets/ic-github-light.svg" height="40"></picture></a></p>
+
+<p align="center"><sub>Mexico City, Mexico · Engineering, creativity and strategy.</sub></p>

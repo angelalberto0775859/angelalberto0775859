@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="132" height="34" viewBox="0 0 132 34" role="img" aria-label="LinkedIn">
-<defs><linearGradient id="g" x1="0" y1="0" x2=".2" y2="1"><stop offset="0" stop-color="#1b1b20"/><stop offset=".55" stop-color="#131317"/><stop offset="1" stop-color="#0a0a0c"/></linearGradient></defs><rect x=".5" y=".5" width="131" height="33" rx="16.5" fill="url(#g)" stroke="#ffffff" stroke-opacity=".10"/>
-<text x="66.0" y="17.0" dy=".36em" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="-.2" fill="#ffffff">LinkedIn</text>
-</svg>
