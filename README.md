@@ -8,6 +8,8 @@
 <p align="center">
   <a href="https://angel-arista-villanueva.lovable.app">
     <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-portfolio-mobile-dark.svg">
+      <source media="(max-width: 600px)" srcset="assets/btn-portfolio-mobile-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg">
       <img alt="View portfolio" src="assets/btn-portfolio-light.svg" height="44">
     </picture>
@@ -15,6 +17,8 @@
   &nbsp;
   <a href="mailto:angelalberto077@gmail.com">
     <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-contact-mobile-dark.svg">
+      <source media="(max-width: 600px)" srcset="assets/btn-contact-mobile-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="assets/btn-contact-dark.svg">
       <img alt="Get in touch" src="assets/btn-contact-light.svg" height="44">
     </picture>
@@ -24,6 +28,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/">
     <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-linkedin-mobile-dark.svg">
+      <source media="(max-width: 600px)" srcset="assets/btn-linkedin-mobile-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg">
       <img alt="LinkedIn" src="assets/btn-linkedin-light.svg" height="40">
     </picture>
@@ -31,6 +37,8 @@
   &nbsp;
   <a href="https://wa.me/525625660729">
     <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-whatsapp-mobile-dark.svg">
+      <source media="(max-width: 600px)" srcset="assets/btn-whatsapp-mobile-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="assets/btn-whatsapp-dark.svg">
       <img alt="WhatsApp" src="assets/btn-whatsapp-light.svg" height="40">
     </picture>
@@ -38,6 +46,8 @@
   &nbsp;
   <a href="mailto:angelalberto077@gmail.com">
     <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-email-mobile-dark.svg">
+      <source media="(max-width: 600px)" srcset="assets/btn-email-mobile-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg">
       <img alt="Email" src="assets/btn-email-light.svg" height="40">
     </picture>
@@ -45,6 +55,8 @@
   &nbsp;
   <a href="https://github.com/angelalberto0775859?tab=repositories">
     <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-repos-mobile-dark.svg">
+      <source media="(max-width: 600px)" srcset="assets/btn-repos-mobile-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="assets/btn-repos-dark.svg">
       <img alt="Repositories" src="assets/btn-repos-light.svg" height="40">
     </picture>
