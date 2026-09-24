@@ -1,164 +1,120 @@
-![Angel Alberto Arista Villanueva](assets/glass-header.svg)
+<img src="assets/header.svg" alt="Angel Alberto Arista Villanueva — digital animation and game engineer working across web development, visual identity and audiovisual production, based in Mexico City." width="100%" />
 
 <p>
-
-<a href="https://angel-arista-villanueva.lovable.app"><img src="assets/app-portfolio.svg" alt="Portafolio" width="130" /></a>
-
-<a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/"><img src="assets/app-linkedin.svg" alt="LinkedIn" width="130" /></a>
-
-<a href="https://wa.me/525625660729"><img src="assets/app-whatsapp.svg" alt="WhatsApp" width="130" /></a>
-
-<a href="mailto:angelalberto077@gmail.com"><img src="assets/app-email.svg" alt="Contacto" width="130" /></a>
-
+  <a href="https://angel-arista-villanueva.lovable.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1c1c1e?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1c1c1e?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/525625660729"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-1c1c1e?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:angelalberto077@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1c1c1e?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><a href="#sobre-mí">Sobre mí</a> · <a href="#herramientas">Herramientas</a> · <a href="#proyectos">Proyectos</a> · <a href="#cv-y-contacto">CV y contacto</a></p>
-
-### Sobre mí
-
-![Ingeniería + creatividad](assets/about-glass.svg)
-
-### Herramientas
-
-![Desarrollo web](assets/web-glass.svg)
-
-![Diseño y producción](assets/design-glass.svg)
-
-![Marketing e IA](assets/marketing-glass.svg)
-
-### Proyectos
-
-[<img src="assets/project-0.svg" alt="QuiénOpina: identidad visual, sistema de diseño editorial y estrategia de contenido para una plataforma de inteligencia social que analiza tendencias y opinión pública con IA. Mi participación conecta los datos con una comunicación visual comprensible." width="1200" />](https://quienopina.mx)
-
-[<img src="assets/project-1.svg" alt="Vexel Digital: dirección creativa y desarrollo. Colaboro en proyectos de desarrollo web, branding y producción audiovisual para clientes de distintos sectores." width="1200" />](https://vexel.digital)
-
-[<img src="assets/project-2.svg" alt="Geriactive: diseño y desarrollo de un sitio para un centro de terapia especializado en personas mayores, con foco en accesibilidad y claridad de la información." width="1200" />](https://geriactive.mx)
-
-[<img src="assets/project-3.svg" alt="SecretBloom: diseño y desarrollo de una tienda en línea para una florería, con una estética cálida y una experiencia orientada a explorar productos y realizar pedidos." width="1200" />](https://eflora.lovable.app)
-
-[<img src="assets/project-4.svg" alt="Dr. Juan Carlos Arista: diseño y desarrollo de una plataforma médica para medicina del dolor y cuidados paliativos, con funciones de gestión de pacientes, citas y seguimiento administrativo." width="1200" />](https://cuidadodeldolor.lovable.app)
-
-<details>
-<summary><b>Más proyectos de identidad y producción</b></summary>
-
-![Identidad y producción](assets/creative-glass.svg)
-
-[Explorar casos en mi portafolio →](https://angel-arista-villanueva.lovable.app/#proyectos)
-
-</details>
-
-<details>
-<summary><b>Explorar repositorios</b></summary>
-
-- [Central-de-Alarmas](https://github.com/angelalberto0775859/Central-de-Alarmas)
-- [Paginasweb](https://github.com/angelalberto0775859/Paginasweb)
-- [publicaciones](https://github.com/angelalberto0775859/publicaciones)
-- [bapal](https://github.com/angelalberto0775859/bapal)
-
-[Ver todos mis repositorios →](https://github.com/angelalberto0775859?tab=repositories)
-
-</details>
-
-### CV y contacto
-
-![Construyamos algo juntos](assets/contact-glass.svg)
-
-[Portafolio](https://angel-arista-villanueva.lovable.app) · [LinkedIn](https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/) · [WhatsApp](https://wa.me/525625660729) · [Contacto](mailto:angelalberto077@gmail.com)
-
-<details>
-<summary><b>Leer toda la información en texto accesible</b></summary>
-
-### Sobre mí
-
-Soy **Angel Alberto Arista Villanueva**, ingeniero en Animación Digital y Videojuegos con especialidad en Simulación Gráfica, en Ciudad de México. Trabajo entre el desarrollo web, el diseño de identidad y la producción audiovisual: convierto ideas en experiencias digitales con una intención clara.
-
-Mi trabajo puede empezar con una marca que necesita encontrar su lenguaje visual, un sitio que necesita explicar mejor un servicio o una pieza audiovisual que tiene que captar la atención. Me involucro desde el concepto hasta la ejecución, conectando la parte creativa con la tecnología y el análisis de resultados.
-
-Aquí comparto la parte de código de mi trabajo. En mi [portafolio](https://angel-arista-villanueva.lovable.app) también puedes explorar proyectos de branding, animación, contenido y producción audiovisual.
-
-### Herramientas
-
-<details open>
-<summary><b>Desarrollo web · explorar</b></summary>
-
-- **React, TypeScript y HTML** para sitios, interfaces y plataformas digitales.
-- **Figma** para diseño de interfaces y experiencia de usuario.
-- **VS Code, Codex y Claude** como herramientas de trabajo y asistencia al desarrollo.
-
-</details>
-
-<details>
-<summary><b>Diseño, animación y producción · explorar</b></summary>
-
-- **Blender** para modelado y trabajo en 3D.
-- **After Effects y Premiere Pro** para animación, motion graphics y edición audiovisual.
-- **Illustrator, Photoshop y Affinity** para identidad visual y piezas gráficas.
-- Modelado 3D, simulación de partículas, efectos visuales y animación digital con bases de ingeniería.
-
-</details>
-
-<details>
-<summary><b>Marketing, contenido e IA · explorar</b></summary>
-
-- **Meta Ads, Google Ads y Google Analytics** para campañas y análisis de resultados.
-- Estrategia de contenido, calendarios editoriales y gestión de comunidades.
-- Aplicación de IA a procesos creativos y contenido visual.
-- Diseño de piezas que conectan información, identidad de marca y comunicación.
-
-</details>
-
-### Proyectos
-
-[**QuiénOpina**](https://quienopina.mx) — identidad visual, sistema de diseño editorial y estrategia de contenido para una plataforma de inteligencia social que analiza tendencias y opinión pública con IA. Mi participación conecta los datos con una comunicación visual comprensible.
-
-[**Vexel Digital**](https://vexel.digital) — dirección creativa y desarrollo. Colaboro en proyectos de desarrollo web, branding y producción audiovisual para clientes de distintos sectores.
-
-[**Geriactive**](https://geriactive.mx) — diseño y desarrollo de un sitio para un centro de terapia especializado en personas mayores, con foco en accesibilidad y claridad de la información.
-
-[**SecretBloom**](https://eflora.lovable.app) — diseño y desarrollo de una tienda en línea para una florería, con una estética cálida y una experiencia orientada a explorar productos y realizar pedidos.
-
-[**Dr. Juan Carlos Arista**](https://cuidadodeldolor.lovable.app) — diseño y desarrollo de una plataforma médica para medicina del dolor y cuidados paliativos, con funciones de gestión de pacientes, citas y seguimiento administrativo.
-
-<details>
-<summary><b>Explorar proyectos de identidad y producción audiovisual</b></summary>
-
-- **Congreso Nacional de Marketing:** identidad visual y producción del escenario de inteligencia artificial.
-- **Statega:** identidad corporativa para una agencia de estrategia digital, con un isotipo que comunica velocidad, dirección y tecnología.
-- **GSI Seguridad Privada:** piezas de campaña con énfasis en confianza y consistencia visual entre formatos.
-- **AX Transporter:** sistema visual de campaña para una marca de traslados turísticos, enfocado en comodidad, exclusividad y destinos.
-
-[Ver las piezas y casos en mi portafolio →](https://angel-arista-villanueva.lovable.app/#proyectos)
-
-</details>
-
-<details>
-<summary><b>Explorar mis repositorios en GitHub</b></summary>
-
-- [Central-de-Alarmas](https://github.com/angelalberto0775859/Central-de-Alarmas)
-- [Paginasweb](https://github.com/angelalberto0775859/Paginasweb)
-- [publicaciones](https://github.com/angelalberto0775859/publicaciones)
-- [bapal](https://github.com/angelalberto0775859/bapal)
-
-[Ver todos mis repositorios →](https://github.com/angelalberto0775859?tab=repositories)
-
-</details>
-
-### CV y contacto
-
-Estoy abierto a proyectos freelance, colaboraciones y oportunidades de tiempo completo.
-
-| Canal | Enlace |
-| :--- | :--- |
-| Portafolio y CV | [Visitar mi portafolio](https://angel-arista-villanueva.lovable.app) — el menú **Download CV / Descargar CV** ofrece español e inglés. |
-| Correo | [angelalberto077@gmail.com](mailto:angelalberto077@gmail.com) |
-| WhatsApp | [+52 56 2566 0729](https://wa.me/525625660729) |
-| LinkedIn | [Angel Alberto Arista Villanueva](https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/) |
-
-Para consultas sobre un repositorio, abre un issue en ese proyecto. Para propuestas de trabajo o colaboraciones, puedes escribirme por correo o WhatsApp.
+[About](#about) · [Work](#selected-work) · [Toolkit](#toolkit) · [Repositories](#repositories) · [Contact](#contact)
 
 ---
 
-**CDMX, México** · Ingeniería, creatividad y estrategia.
+## About
 
+I'm an engineer in Digital Animation and Video Games with a specialty in Graphic Simulation, based in Mexico City. My work sits between web development, brand identity and audiovisual production — I turn ideas into digital experiences with a clear intent behind them.
+
+A project might start with a brand looking for its visual language, a site that needs to explain a service better, or a piece of video that has to earn someone's attention. I stay involved from concept to execution, connecting the creative side with the technology and with what the results actually say.
+
+This profile is the code side of that work. My [portfolio](https://angel-arista-villanueva.lovable.app) covers the rest: branding, animation, content and audiovisual production.
+
+---
+
+## Selected work
+
+**[QuiénOpina](https://quienopina.mx)** — Visual identity, editorial design system and content strategy for a social intelligence platform that reads trends and public opinion with AI. My part connects the data to a visual language people can actually follow.
+
+**[Vexel Digital](https://vexel.digital)** — Creative direction and development. I collaborate on web development, branding and audiovisual production for clients across different industries.
+
+**[Geriactive](https://geriactive.mx)** — Design and development of a site for a therapy center specialized in older adults, built around accessibility and clarity of information.
+
+**[SecretBloom](https://eflora.lovable.app)** — Design and development of an online store for a flower shop, with a warm aesthetic and a shopping experience made for browsing and ordering easily.
+
+**[Dr. Juan Carlos Arista](https://cuidadodeldolor.lovable.app)** — Design and development of a medical platform for pain medicine and palliative care, including patient management, appointments and administrative follow-up.
+
+<details>
+<summary><b>More identity and production work</b></summary>
+
+<br>
+
+**Congreso Nacional de Marketing** — Visual identity and stage production for the artificial intelligence track.
+
+**Statega** — Corporate identity for a digital strategy agency, with an icon that communicates speed, direction and technology.
+
+**GSI Seguridad Privada** — Campaign pieces built around trust and visual consistency across formats.
+
+**AX Transporter** — Campaign visual system for a tourist transfer brand, focused on comfort, exclusivity and destinations.
+
+[See the full cases in my portfolio →](https://angel-arista-villanueva.lovable.app/#proyectos)
 
 </details>
+
+---
+
+## Toolkit
+
+**Web development** — React, TypeScript and HTML for sites, interfaces and digital platforms. Figma for interface and experience design. VS Code, Codex and Claude as everyday working tools.
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-1c1c1e?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1c1c1e?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-1c1c1e?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1c1c1e?style=flat-square&logo=css&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-1c1c1e?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-1c1c1e?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+**Design, animation and production** — Blender for 3D modeling and simulation. After Effects and Premiere Pro for motion graphics and editing. Illustrator, Photoshop and Affinity for visual identity and graphic pieces. Particle simulation, visual effects and digital animation, with an engineering foundation underneath.
+
+<p>
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-1c1c1e?style=flat-square" />
+  <img alt="After Effects" src="https://img.shields.io/badge/After%20Effects-1c1c1e?style=flat-square" />
+  <img alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-1c1c1e?style=flat-square" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-1c1c1e?style=flat-square" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-1c1c1e?style=flat-square" />
+  <img alt="Affinity" src="https://img.shields.io/badge/Affinity-1c1c1e?style=flat-square" />
+</p>
+
+**Marketing, content and AI** — Meta Ads, Google Ads and Google Analytics for campaigns and performance analysis. Content strategy, editorial calendars and community management. AI applied to creative processes and visual content.
+
+<p>
+  <img alt="Meta Ads" src="https://img.shields.io/badge/Meta%20Ads-1c1c1e?style=flat-square&logo=meta&logoColor=white" />
+  <img alt="Google Ads" src="https://img.shields.io/badge/Google%20Ads-1c1c1e?style=flat-square&logo=googleads&logoColor=white" />
+  <img alt="Google Analytics" src="https://img.shields.io/badge/Analytics-1c1c1e?style=flat-square&logo=googleanalytics&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-1c1c1e?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-1c1c1e?style=flat-square&logo=notion&logoColor=white" />
+</p>
+
+---
+
+## Repositories
+
+| Repository | Stack | Notes |
+| :--- | :--- | :--- |
+| [Central-de-Alarmas](https://github.com/angelalberto0775859/Central-de-Alarmas) | HTML | Live at [centraldealarmas.website](https://centraldealarmas.website) |
+| [gsi-seguridad-privada](https://github.com/angelalberto0775859/gsi-seguridad-privada) | TypeScript | Site for a private security company |
+| [export-elementor-pro-json](https://github.com/angelalberto0775859/export-elementor-pro-json) | Python | Agent skill that generates and validates importable Elementor Pro JSON templates |
+| [publicaciones](https://github.com/angelalberto0775859/publicaciones) | TypeScript | Social content and campaign pieces |
+| [Paginasweb](https://github.com/angelalberto0775859/Paginasweb) | Web | Web page editing and front-end work |
+
+[Browse all repositories →](https://github.com/angelalberto0775859?tab=repositories)
+
+---
+
+## Contact
+
+Open to freelance projects, collaborations and full-time roles.
+
+| | |
+| :--- | :--- |
+| **Portfolio & CV** | [angel-arista-villanueva.lovable.app](https://angel-arista-villanueva.lovable.app) — the **Download CV** menu has English and Spanish versions. |
+| **Email** | [angelalberto077@gmail.com](mailto:angelalberto077@gmail.com) |
+| **WhatsApp** | [+52 56 2566 0729](https://wa.me/525625660729) |
+| **LinkedIn** | [Angel Alberto Arista Villanueva](https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/) |
+
+For questions about a specific repository, open an issue there. For work or collaboration, email or WhatsApp is the fastest way to reach me.
+
+<br>
+
+<sub>Mexico City, Mexico · Engineering, creativity and strategy.</sub>
