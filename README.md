@@ -1,15 +1,55 @@
-<img src="assets/header.svg" alt="Angel Alberto Arista Villanueva — digital animation and game engineer working across web development, visual identity and audiovisual production, based in Mexico City." width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img alt="Angel Alberto Arista Villanueva — Digital Animation & Game Engineering. Web development, visual identity and audiovisual production. Mexico City." src="assets/hero-light.svg" width="100%">
+</picture>
 
-<p>
-  <a href="https://angel-arista-villanueva.lovable.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1c1c1e?style=flat-square&logo=safari&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1c1c1e?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/525625660729"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-1c1c1e?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:angelalberto077@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1c1c1e?style=flat-square&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://angel-arista-villanueva.lovable.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg">
+      <img alt="View portfolio" src="assets/btn-portfolio-light.svg" height="44">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="mailto:angelalberto077@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-contact-dark.svg">
+      <img alt="Get in touch" src="assets/btn-contact-light.svg" height="44">
+    </picture>
+  </a>
 </p>
 
-[About](#about) · [Work](#selected-work) · [Toolkit](#toolkit) · [Repositories](#repositories) · [Contact](#contact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg">
+      <img alt="LinkedIn" src="assets/btn-linkedin-light.svg" height="40">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/525625660729">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-whatsapp-dark.svg">
+      <img alt="WhatsApp" src="assets/btn-whatsapp-light.svg" height="40">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="mailto:angelalberto077@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg">
+      <img alt="Email" src="assets/btn-email-light.svg" height="40">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://github.com/angelalberto0775859?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-repos-dark.svg">
+      <img alt="Repositories" src="assets/btn-repos-light.svg" height="40">
+    </picture>
+  </a>
+</p>
 
----
+<br>
 
 ## About
 
@@ -56,35 +96,24 @@ This profile is the code side of that work. My [portfolio](https://angel-arista-
 
 **Web development** — React, TypeScript and HTML for sites, interfaces and digital platforms. Figma for interface and experience design. VS Code, Codex and Claude as everyday working tools.
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-1c1c1e?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1c1c1e?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML-1c1c1e?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1c1c1e?style=flat-square&logo=css&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-1c1c1e?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-1c1c1e?style=flat-square&logo=git&logoColor=white" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/chips-web-dark.svg">
+  <img alt="React, TypeScript, HTML, CSS, Figma, Git" src="assets/chips-web-light.svg" height="34">
+</picture>
 
 **Design, animation and production** — Blender for 3D modeling and simulation. After Effects and Premiere Pro for motion graphics and editing. Illustrator, Photoshop and Affinity for visual identity and graphic pieces. Particle simulation, visual effects and digital animation, with an engineering foundation underneath.
 
-<p>
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-1c1c1e?style=flat-square" />
-  <img alt="After Effects" src="https://img.shields.io/badge/After%20Effects-1c1c1e?style=flat-square" />
-  <img alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-1c1c1e?style=flat-square" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-1c1c1e?style=flat-square" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-1c1c1e?style=flat-square" />
-  <img alt="Affinity" src="https://img.shields.io/badge/Affinity-1c1c1e?style=flat-square" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/chips-design-dark.svg">
+  <img alt="Blender, After Effects, Premiere Pro, Illustrator, Photoshop, Affinity" src="assets/chips-design-light.svg" height="34">
+</picture>
 
 **Marketing, content and AI** — Meta Ads, Google Ads and Google Analytics for campaigns and performance analysis. Content strategy, editorial calendars and community management. AI applied to creative processes and visual content.
 
-<p>
-  <img alt="Meta Ads" src="https://img.shields.io/badge/Meta%20Ads-1c1c1e?style=flat-square&logo=meta&logoColor=white" />
-  <img alt="Google Ads" src="https://img.shields.io/badge/Google%20Ads-1c1c1e?style=flat-square&logo=googleads&logoColor=white" />
-  <img alt="Google Analytics" src="https://img.shields.io/badge/Analytics-1c1c1e?style=flat-square&logo=googleanalytics&logoColor=white" />
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-1c1c1e?style=flat-square&logo=anthropic&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-1c1c1e?style=flat-square&logo=notion&logoColor=white" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/chips-marketing-dark.svg">
+  <img alt="Meta Ads, Google Ads, Google Analytics, Content strategy, AI tooling" src="assets/chips-marketing-light.svg" height="34">
+</picture>
 
 ---
 

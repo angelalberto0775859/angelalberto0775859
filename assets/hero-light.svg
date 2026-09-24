@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520" role="img" aria-labelledby="t d">
+<title id="t">Angel Alberto Arista Villanueva</title>
+<desc id="d">Digital animation and game engineer. Web development, visual identity and audiovisual production. Mexico City.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2=".3" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f5f5f7"/></linearGradient>
+<radialGradient id="g1" cx=".5" cy="-.05" r=".75"><stop offset="0" stop-color="#0a84ff" stop-opacity="0.1"/><stop offset="1" stop-color="#0a84ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx=".92" cy="1.05" r=".6"><stop offset="0" stop-color="#30d158" stop-opacity="0.055"/><stop offset="1" stop-color="#30d158" stop-opacity="0"/></radialGradient>
+<linearGradient id="hair" x1="0" x2="1"><stop offset="0" stop-color="#000000" stop-opacity="0"/><stop offset=".5" stop-color="#000000" stop-opacity=".08"/><stop offset="1" stop-color="#000000" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="1400" height="520" rx="34"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1400" height="520" fill="url(#bg)"/>
+<rect width="1400" height="520" fill="url(#g1)"/>
+<rect width="1400" height="520" fill="url(#g2)"/>
+</g>
+<rect x=".5" y=".5" width="1399" height="519" rx="33.5" fill="none" stroke="#000000" stroke-opacity=".08"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" text-anchor="middle">
+<text x="700.0" y="152" fill="#0a84ff" font-size="19" font-weight="600" letter-spacing="-.1">Digital Animation &amp; Game Engineering</text>
+<text x="700.0" y="246" fill="#1d1d1f" font-size="68" font-weight="600" letter-spacing="-2.2">Angel Alberto Arista Villanueva</text>
+<text x="700.0" y="326" fill="#6e6e73" font-size="30" font-weight="400" letter-spacing="-.6">Web development · Visual identity · Audiovisual production</text>
+<rect x="340.0" y="390" width="720" height="1" fill="url(#hair)"/>
+<text x="700.0" y="440" fill="#86868b" font-size="17" font-weight="400" letter-spacing="-.1">Mexico City  ·  Graphic simulation specialty  ·  Available for freelance &amp; full-time</text>
+</g>
+</svg>
