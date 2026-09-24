@@ -1,67 +1,12 @@
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Angel Alberto Arista Villanueva — Digital Animation & Game Engineering. Web development, visual identity and audiovisual production. Mexico City." src="assets/hero-light.svg" width="100%">
-</picture>
+<picture><source media="(max-width: 600px)" srcset="assets/hero-mobile.svg"><img alt="Angel Alberto Arista Villanueva — Digital Animation &amp; Game Engineering. Web development, visual identity and audiovisual production. Mexico City." src="assets/hero.svg" width="100%"></picture>
 
-<p align="center">
-  <a href="https://angel-arista-villanueva.lovable.app">
-    <picture>
-      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-portfolio-mobile-dark.svg">
-      <source media="(max-width: 600px)" srcset="assets/btn-portfolio-mobile-light.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg">
-      <img alt="View portfolio" src="assets/btn-portfolio-light.svg" height="44">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="mailto:angelalberto077@gmail.com">
-    <picture>
-      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-contact-mobile-dark.svg">
-      <source media="(max-width: 600px)" srcset="assets/btn-contact-mobile-light.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-contact-dark.svg">
-      <img alt="Get in touch" src="assets/btn-contact-light.svg" height="44">
-    </picture>
-  </a>
-</p>
+<p align="center"><a href="https://angel-arista-villanueva.lovable.app"><picture><source media="(max-width: 600px)" srcset="assets/btn-portfolio-mobile.svg"><img alt="View portfolio" src="assets/btn-portfolio.svg" height="38"></picture></a>
+<a href="mailto:angelalberto077@gmail.com"><picture><source media="(max-width: 600px)" srcset="assets/btn-contact-mobile.svg"><img alt="Get in touch" src="assets/btn-contact.svg" height="38"></picture></a></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/">
-    <picture>
-      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-linkedin-mobile-dark.svg">
-      <source media="(max-width: 600px)" srcset="assets/btn-linkedin-mobile-light.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg">
-      <img alt="LinkedIn" src="assets/btn-linkedin-light.svg" height="40">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/525625660729">
-    <picture>
-      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-whatsapp-mobile-dark.svg">
-      <source media="(max-width: 600px)" srcset="assets/btn-whatsapp-mobile-light.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-whatsapp-dark.svg">
-      <img alt="WhatsApp" src="assets/btn-whatsapp-light.svg" height="40">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="mailto:angelalberto077@gmail.com">
-    <picture>
-      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-email-mobile-dark.svg">
-      <source media="(max-width: 600px)" srcset="assets/btn-email-mobile-light.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg">
-      <img alt="Email" src="assets/btn-email-light.svg" height="40">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://github.com/angelalberto0775859?tab=repositories">
-    <picture>
-      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-repos-mobile-dark.svg">
-      <source media="(max-width: 600px)" srcset="assets/btn-repos-mobile-light.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-repos-dark.svg">
-      <img alt="Repositories" src="assets/btn-repos-light.svg" height="40">
-    </picture>
-  </a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/"><picture><source media="(max-width: 600px)" srcset="assets/btn-linkedin-mobile.svg"><img alt="LinkedIn" src="assets/btn-linkedin.svg" height="34"></picture></a>
+<a href="https://wa.me/525625660729"><picture><source media="(max-width: 600px)" srcset="assets/btn-whatsapp-mobile.svg"><img alt="WhatsApp" src="assets/btn-whatsapp.svg" height="34"></picture></a>
+<a href="mailto:angelalberto077@gmail.com"><picture><source media="(max-width: 600px)" srcset="assets/btn-email-mobile.svg"><img alt="Email" src="assets/btn-email.svg" height="34"></picture></a>
+<a href="https://github.com/angelalberto0775859?tab=repositories"><picture><source media="(max-width: 600px)" srcset="assets/btn-repos-mobile.svg"><img alt="Repositories" src="assets/btn-repos.svg" height="34"></picture></a></p>
 
 <br>
 
@@ -110,30 +55,15 @@ This profile is the code side of that work. My [portfolio](https://angel-arista-
 
 **Web development** — React, TypeScript and HTML for sites, interfaces and digital platforms. Figma for interface and experience design. VS Code, Codex and Claude as everyday working tools.
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/chips-web-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/chips-web-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/chips-web-dark.svg">
-  <img alt="React, TypeScript, HTML, CSS, Figma, Git" src="assets/chips-web-light.svg">
-</picture>
+<picture><source media="(max-width: 600px)" srcset="assets/chips-web-mobile.svg"><img alt="React, TypeScript, HTML, CSS, Figma, Git" src="assets/chips-web.svg"></picture>
 
 **Design, animation and production** — Blender for 3D modeling and simulation. After Effects and Premiere Pro for motion graphics and editing. Illustrator, Photoshop and Affinity for visual identity and graphic pieces. Particle simulation, visual effects and digital animation, with an engineering foundation underneath.
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/chips-design-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/chips-design-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/chips-design-dark.svg">
-  <img alt="Blender, After Effects, Premiere Pro, Illustrator, Photoshop, Affinity" src="assets/chips-design-light.svg">
-</picture>
+<picture><source media="(max-width: 600px)" srcset="assets/chips-design-mobile.svg"><img alt="Blender, After Effects, Premiere Pro, Illustrator, Photoshop, Affinity" src="assets/chips-design.svg"></picture>
 
 **Marketing, content and AI** — Meta Ads, Google Ads and Google Analytics for campaigns and performance analysis. Content strategy, editorial calendars and community management. AI applied to creative processes and visual content.
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/chips-marketing-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/chips-marketing-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/chips-marketing-dark.svg">
-  <img alt="Meta Ads, Google Ads, Google Analytics, Content strategy, AI tooling" src="assets/chips-marketing-light.svg">
-</picture>
+<picture><source media="(max-width: 600px)" srcset="assets/chips-marketing-mobile.svg"><img alt="Meta Ads, Google Ads, Google Analytics, Content strategy, AI tooling" src="assets/chips-marketing.svg"></picture>
 
 ---
 

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="500" viewBox="0 0 1400 500" role="img" aria-labelledby="t d">
+<title id="t">Angel Alberto Arista Villanueva</title>
+<desc id="d">Digital animation and game engineer. Web development, visual identity and audiovisual production. Mexico City.</desc>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2=".3" y2="1"><stop offset="0" stop-color="#1b1b20"/><stop offset=".55" stop-color="#131317"/><stop offset="1" stop-color="#0a0a0c"/></linearGradient>
+<radialGradient id="sheenG" cx=".5" cy="-.05" r=".75"><stop offset="0" stop-color="#0a84ff" stop-opacity=".22"/><stop offset="1" stop-color="#0a84ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="b1g" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#0a84ff" stop-opacity=".20"/><stop offset="1" stop-color="#0a84ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="b2g" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#30d158" stop-opacity=".13"/><stop offset="1" stop-color="#30d158" stop-opacity="0"/></radialGradient>
+<radialGradient id="b3g" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#5e5ce6" stop-opacity=".17"/><stop offset="1" stop-color="#5e5ce6" stop-opacity="0"/></radialGradient>
+<linearGradient id="hair" x1="0" x2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset=".5" stop-color="#ffffff" stop-opacity=".10"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="1400" height="500" rx="30"/></clipPath>
+<style>
+  .b { transform-box: fill-box; transform-origin: center; will-change: transform, opacity; }
+  .b1 { animation: drift1 24s ease-in-out infinite; }
+  .b2 { animation: drift2 31s ease-in-out infinite; }
+  .b3 { animation: drift3 38s ease-in-out infinite; }
+  .sheen { animation: sheen 14s ease-in-out infinite; }
+  @keyframes drift1 {
+    0%, 100% { transform: translate(0px, 0px) scale(1); opacity: .85; }
+    33%      { transform: translate(120px, 40px) scale(1.14); opacity: 1; }
+    66%      { transform: translate(-70px, 26px) scale(.94); opacity: .7; }
+  }
+  @keyframes drift2 {
+    0%, 100% { transform: translate(0px, 0px) scale(1.05); opacity: .75; }
+    40%      { transform: translate(-140px, -46px) scale(.9); opacity: 1; }
+    70%      { transform: translate(80px, 34px) scale(1.16); opacity: .82; }
+  }
+  @keyframes drift3 {
+    0%, 100% { transform: translate(0px, 0px) scale(1); opacity: .6; }
+    50%      { transform: translate(100px, -60px) scale(1.2); opacity: .95; }
+  }
+  @keyframes sheen {
+    0%, 100% { opacity: 0; transform: translateX(-12%); }
+    50%      { opacity: 1; transform: translateX(12%); }
+  }
+  @media (prefers-reduced-motion: reduce) { .b, .sheen { animation: none; } }
+</style>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1400" height="500" fill="url(#g)"/>
+<ellipse class="b b1" cx="420.0" cy="90.0" rx="470" ry="330" fill="url(#b1g)"/>
+<ellipse class="b b2" cx="1064.0" cy="430.0" rx="432" ry="297" fill="url(#b2g)"/>
+<ellipse class="b b3" cx="770.0000000000001" cy="240.0" rx="517" ry="271" fill="url(#b3g)"/>
+<rect class="sheen" width="1400" height="500" fill="url(#sheenG)"/>
+</g>
+<rect x=".5" y=".5" width="1399" height="499" rx="29.5" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" text-anchor="middle">
+<text x="700.0" y="146" fill="#0a84ff" font-size="18" font-weight="600" letter-spacing="-.1">Digital Animation &amp; Game Engineering</text>
+<text x="700.0" y="238" fill="#f5f5f7" font-size="66" font-weight="600" letter-spacing="-2.2">Angel Alberto Arista Villanueva</text>
+<text x="700.0" y="314" fill="#a1a1a6" font-size="29" font-weight="400" letter-spacing="-.6">Web development · Visual identity · Audiovisual production</text>
+<rect x="340.0" y="376" width="720" height="1" fill="url(#hair)"/>
+<text x="700.0" y="424" fill="#6e6e73" font-size="17" font-weight="400" letter-spacing="-.1">Mexico City  ·  Graphic simulation specialty  ·  Available for freelance &amp; full-time</text>
+</g>
+</svg>

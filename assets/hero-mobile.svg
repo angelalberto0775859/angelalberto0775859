@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="720" viewBox="0 0 820 720" role="img" aria-labelledby="t d">
+<title id="t">Angel Alberto Arista Villanueva</title>
+<desc id="d">Digital animation and game engineer. Web development, visual identity and audiovisual production. Mexico City.</desc>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2=".3" y2="1"><stop offset="0" stop-color="#1b1b20"/><stop offset=".55" stop-color="#131317"/><stop offset="1" stop-color="#0a0a0c"/></linearGradient>
+<radialGradient id="sheenG" cx=".5" cy="-.05" r=".75"><stop offset="0" stop-color="#0a84ff" stop-opacity=".22"/><stop offset="1" stop-color="#0a84ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="b1g" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#0a84ff" stop-opacity=".20"/><stop offset="1" stop-color="#0a84ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="b2g" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#30d158" stop-opacity=".13"/><stop offset="1" stop-color="#30d158" stop-opacity="0"/></radialGradient>
+<radialGradient id="b3g" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#5e5ce6" stop-opacity=".17"/><stop offset="1" stop-color="#5e5ce6" stop-opacity="0"/></radialGradient>
+<linearGradient id="hair" x1="0" x2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset=".5" stop-color="#ffffff" stop-opacity=".10"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="820" height="720" rx="34"/></clipPath>
+<style>
+  .b { transform-box: fill-box; transform-origin: center; will-change: transform, opacity; }
+  .b1 { animation: drift1 24s ease-in-out infinite; }
+  .b2 { animation: drift2 31s ease-in-out infinite; }
+  .b3 { animation: drift3 38s ease-in-out infinite; }
+  .sheen { animation: sheen 14s ease-in-out infinite; }
+  @keyframes drift1 {
+    0%, 100% { transform: translate(0px, 0px) scale(1); opacity: .85; }
+    33%      { transform: translate(120px, 40px) scale(1.14); opacity: 1; }
+    66%      { transform: translate(-70px, 26px) scale(.94); opacity: .7; }
+  }
+  @keyframes drift2 {
+    0%, 100% { transform: translate(0px, 0px) scale(1.05); opacity: .75; }
+    40%      { transform: translate(-140px, -46px) scale(.9); opacity: 1; }
+    70%      { transform: translate(80px, 34px) scale(1.16); opacity: .82; }
+  }
+  @keyframes drift3 {
+    0%, 100% { transform: translate(0px, 0px) scale(1); opacity: .6; }
+    50%      { transform: translate(100px, -60px) scale(1.2); opacity: .95; }
+  }
+  @keyframes sheen {
+    0%, 100% { opacity: 0; transform: translateX(-12%); }
+    50%      { opacity: 1; transform: translateX(12%); }
+  }
+  @media (prefers-reduced-motion: reduce) { .b, .sheen { animation: none; } }
+</style>
+</defs>
+<g clip-path="url(#c)">
+<rect width="820" height="720" fill="url(#g)"/>
+<ellipse class="b b1" cx="246.0" cy="129.6" rx="300" ry="210" fill="url(#b1g)"/>
+<ellipse class="b b2" cx="623.2" cy="619.2" rx="276" ry="189" fill="url(#b2g)"/>
+<ellipse class="b b3" cx="451.00000000000006" cy="345.59999999999997" rx="330" ry="172" fill="url(#b3g)"/>
+<rect class="sheen" width="820" height="720" fill="url(#sheenG)"/>
+</g>
+<rect x=".5" y=".5" width="819" height="719" rx="33.5" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" text-anchor="middle">
+<text x="410.0" y="184" fill="#0a84ff" font-size="25" font-weight="600" letter-spacing="-.1">Digital Animation &amp; Game Engineering</text>
+<text x="410.0" y="292" fill="#f5f5f7" font-size="72" font-weight="600" letter-spacing="-2.2">Angel Alberto</text>
+<text x="410.0" y="372" fill="#f5f5f7" font-size="72" font-weight="600" letter-spacing="-2.2">Arista Villanueva</text>
+<text x="410.0" y="450" fill="#a1a1a6" font-size="32" font-weight="400" letter-spacing="-.6">Web development</text>
+<text x="410.0" y="496" fill="#a1a1a6" font-size="32" font-weight="400" letter-spacing="-.6">Visual identity · Audiovisual production</text>
+<rect x="160.0" y="554" width="500" height="1" fill="url(#hair)"/>
+<text x="410.0" y="606" fill="#6e6e73" font-size="25" font-weight="400" letter-spacing="-.1">Mexico City · Graphic simulation specialty</text>
+<text x="410.0" y="646" fill="#6e6e73" font-size="25" font-weight="400" letter-spacing="-.1">Available for freelance &amp; full-time</text>
+</g>
+</svg>
