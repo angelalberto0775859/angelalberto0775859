@@ -36,6 +36,10 @@ I build websites, landing pages and practical platforms, connect them to the too
 
 **[Soy Creación](https://azure-hornet-903083.hostingersite.com)** · An Astro website for guided hypnosis, breathwork and Kundalini experiences, with event and course pages generated from content files.
 
+**Social content · September–December 2026**
+
+Selected designs from the monthly content calendars for **GSI Seguridad Privada**, **Impacto Total** and **SEPSA Custodias**: posts, stories and carousel covers for Facebook, Instagram and LinkedIn. The [portfolio galleries](https://skyblue-duck-237936.hostingersite.com/#proyectos) include 45 selected visuals, organized by brand, month and format.
+
 [**View all projects and case studies →**](https://skyblue-duck-237936.hostingersite.com/#proyectos) &nbsp;·&nbsp; [**Explore landing pages →**](https://skyblue-duck-237936.hostingersite.com/#landings)
 
 <details>
