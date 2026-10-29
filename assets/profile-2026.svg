@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560" viewBox="0 0 1400 560" role="img" aria-labelledby="title desc"><title id="title">Angel Alberto Arista Villanueva</title><desc id="desc">Engineer, developer and designer based in Mexico City. Web development, digital platforms, branding and audiovisual production.</desc><defs><clipPath id="clip"><rect width="1400" height="560" rx="28"/></clipPath>
+ <radialGradient id="orange"><stop stop-color="#ff833e" stop-opacity=".52"/><stop offset="1" stop-color="#ff833e" stop-opacity="0"/></radialGradient>
+ <radialGradient id="blue"><stop stop-color="#269dff" stop-opacity=".55"/><stop offset="1" stop-color="#269dff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="green"><stop stop-color="#30de97" stop-opacity=".35"/><stop offset="1" stop-color="#30de97" stop-opacity="0"/></radialGradient>
+ <radialGradient id="violet"><stop stop-color="#a267ff" stop-opacity=".34"/><stop offset="1" stop-color="#a267ff" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#eef1f8" stroke-opacity=".035"/></pattern></defs><g clip-path="url(#clip)"><rect width="1400" height="560" fill="#090d18"/>
+ <ellipse cx="0" cy="0" rx="1050.0" ry="560" fill="url(#orange)"/>
+ <ellipse cx="1400" cy="140.0" rx="910.0" ry="504.0" fill="url(#blue)"/>
+ <ellipse cx="1400" cy="560" rx="840.0" ry="392.0" fill="url(#green)"/>
+ <ellipse cx="420.0" cy="627.2" rx="840.0" ry="364.0" fill="url(#violet)"/>
+ <rect width="1400" height="560" fill="url(#grid)"/>
+ </g><rect x=".5" y=".5" width="1399" height="559" rx="27.5" fill="none" stroke="#eef1f8" stroke-opacity=".16"/><g font-family="Arial,Helvetica,sans-serif" fill="#eef1f8"><text x="60" y="70" font-size="24" font-weight="800" letter-spacing="2">AA<tspan fill="#4fd8f0">AV</tspan></text>
+  <circle cx="1110" cy="62" r="4" fill="#64e7aa"/><text x="1126" y="68" fill="#b2dac8" font-size="16">Available for projects</text>
+  <text x="62" y="151" fill="#7de6ed" font-size="15" letter-spacing="3">ENGINEER / DEVELOPER / DESIGNER</text>
+  <text x="56" y="254" font-size="90" font-weight="300" letter-spacing="-3">Angel Alberto</text>
+  <text x="56" y="347" font-size="90" font-weight="800" letter-spacing="-3">Arista Villanueva</text>
+  <text x="62" y="414" fill="#bac6d8" font-size="23">Digital Animation &amp; Video Games · Graphic Simulation</text>
+  <text x="62" y="496" fill="#94a4bd" font-size="15" letter-spacing="2">BASED IN MEXICO CITY / WORKING ACROSS DESIGN &amp; TECHNOLOGY</text>
+  <rect x="947" y="156" width="393" height="280" rx="22" fill="#eef1f8" fill-opacity=".045" stroke="#eef1f8" stroke-opacity=".15"/>
+  <path d="M970 250H1317M970 342H1317" stroke="#eef1f8" stroke-opacity=".12"/>
+  <text x="975" y="195" fill="#ff9b6a" font-size="13" letter-spacing="2">01 / WEB</text>
+  <text x="975" y="225" font-size="22">Websites &amp; landing pages</text>
+  <text x="975" y="288" fill="#4fd8f0" font-size="13" letter-spacing="2">02 / SYSTEMS</text>
+  <text x="975" y="318" font-size="22">Portals &amp; platforms</text>
+  <text x="975" y="380" fill="#b899ff" font-size="13" letter-spacing="2">03 / VISUAL</text>
+  <text x="975" y="410" font-size="22">Branding, video &amp; AI</text></g></svg>

@@ -1,96 +1,81 @@
-<picture><source media="(max-width: 600px)" srcset="assets/hero-mobile.svg"><img alt="Angel Alberto Arista Villanueva — Digital Animation &amp; Game Engineering. Web development, visual identity and audiovisual production. Mexico City." src="assets/hero.svg" width="100%"></picture>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-2026-mobile.svg">
+  <img src="assets/profile-2026.svg" width="100%" alt="Angel Alberto Arista Villanueva — Engineer, developer and designer. Web, systems and visual storytelling. Mexico City.">
+</picture>
 
-<p align="center"><a href="https://angel-arista-villanueva.lovable.app"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-portfolio-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/btn-portfolio-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img alt="View portfolio" src="assets/btn-portfolio-light.svg" height="38"></picture></a>
-<a href="mailto:angelalberto077@gmail.com"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/btn-contact-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/btn-contact-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/btn-contact-dark.svg"><img alt="Get in touch" src="assets/btn-contact-light.svg" height="38"></picture></a></p>
+<p align="center">
+  <a href="https://skyblue-duck-237936.hostingersite.com/"><strong>Explore my portfolio ↗</strong></a> &nbsp;·&nbsp;
+  <a href="https://skyblue-duck-237936.hostingersite.com/cv/CV_Angel_Arista_2026_EN.pdf">CV in English</a> &nbsp;·&nbsp;
+  <a href="https://skyblue-duck-237936.hostingersite.com/cv/CV_Angel_Arista_2026_ES.pdf">CV en español</a> &nbsp;·&nbsp;
+  <a href="mailto:angelalberto077@gmail.com">Let's talk</a>
+</p>
 
-<p align="center"><a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-linkedin-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-linkedin-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-linkedin-dark.svg"><img alt="LinkedIn" src="assets/ic-linkedin-light.svg" height="40"></picture></a>
-<a href="https://wa.me/525625660729"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-whatsapp-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-whatsapp-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-whatsapp-dark.svg"><img alt="WhatsApp" src="assets/ic-whatsapp-light.svg" height="40"></picture></a>
-<a href="mailto:angelalberto077@gmail.com"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-email-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-email-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-email-dark.svg"><img alt="Email" src="assets/ic-email-light.svg" height="40"></picture></a>
-<a href="https://github.com/angelalberto0775859?tab=repositories"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-github-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-github-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-github-dark.svg"><img alt="GitHub repositories" src="assets/ic-github-light.svg" height="40"></picture></a></p>
+## Design, code and the systems behind them
 
-<br>
+I'm **Angel**, an engineer in **Digital Animation and Video Games**, specializing in **Graphic Simulation**, based in **Mexico City**. I work across web development, branding, audiovisual production and digital marketing.
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/band-about-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/band-about-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/band-about-dark.svg"><img alt="About" src="assets/band-about-light.svg" width="100%"></picture>
+I build websites, landing pages and practical platforms, connect them to the tools a team uses, and take care of the hosting, domains and technical details that keep them running. My [portfolio](https://skyblue-duck-237936.hostingersite.com/) brings that work together with visual identity, animation and AI-assisted content.
 
-I'm an engineer in Digital Animation and Video Games with a specialty in Graphic Simulation, based in Mexico City. My work sits between web development, brand identity and audiovisual production — I turn ideas into digital experiences with a clear intent behind them.
+**Web & interfaces** ? Websites, e-commerce and conversion landing pages built with React, TypeScript, Astro, HTML/CSS, WordPress and Elementor. GoHighLevel funnels for Google and Meta Ads.
 
-A project might start with a brand looking for its visual language, a site that needs to explain a service better, or a piece of video that has to earn someone's attention. I stay involved from concept to execution, connecting the creative side with the technology and with what the results actually say.
+**Platforms & infrastructure** ? Private portals, dashboards and ticket systems. PHP, MySQL, deployments, DNS, SSL, cPanel and hosting support.
 
-This profile is the code side of that work. My [portfolio](https://angel-arista-villanueva.lovable.app) covers the rest: branding, animation, content and audiovisual production.
+**Creative & growth** ? Branding, motion graphics, video and AI-assisted content. Figma, Blender, Adobe and Affinity, supported by content strategy, GA4 and Tag Manager.
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/band-work-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/band-work-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/band-work-dark.svg"><img alt="Selected work" src="assets/band-work-light.svg" width="100%"></picture>
+## Selected work
 
-**[QuiénOpina](https://quienopina.mx)** — Visual identity, editorial design system and content strategy for a social intelligence platform that reads trends and public opinion with AI. My part connects the data to a visual language people can actually follow.
+**[Entelequia Digital](https://entelequiadigital.com.mx)** · Technology direction and development of a bilingual agency website, a private influencer portal, and the team's [digital business cards](https://id.entelequiadigital.com.mx).
 
-**[Vexel Digital](https://vexel.digital)** — Creative direction and development. I collaborate on web development, branding and audiovisual production for clients across different industries.
+**[Central de Alarmas · Marketing](https://centraldealarmas.website/marketing.html)** · A ticket portal for the Marketing department, bringing requests and follow-up into one place.
 
-**[Geriactive](https://geriactive.mx)** — Design and development of a site for a therapy center specialized in older adults, built around accessibility and clarity of information.
+**[QuiénOpina](https://quienopina.mx)** · Visual identity, editorial design and content strategy for an AI-powered social intelligence platform.
 
-**[SecretBloom](https://eflora.lovable.app)** — Design and development of an online store for a flower shop, with a warm aesthetic and a shopping experience made for browsing and ordering easily.
+**[Geriactive](https://geriactive.mx)** · Website design and development for a center specializing in therapy for older adults, with clear information and accessible navigation.
 
-**[Dr. Juan Carlos Arista](https://cuidadodeldolor.lovable.app)** — Design and development of a medical platform for pain medicine and palliative care, including patient management, appointments and administrative follow-up.
+**[Dr. Juan Carlos Arista](https://cuidadodeldolor.lovable.app)** · A medical platform for pain medicine and palliative care, with patient management, appointments, leads and balance tracking.
+
+**[Soy Creación](https://azure-hornet-903083.hostingersite.com)** · An Astro website for guided hypnosis, breathwork and Kundalini experiences, with event and course pages generated from content files.
+
+[**View all projects and case studies →**](https://skyblue-duck-237936.hostingersite.com/#proyectos) &nbsp;·&nbsp; [**Explore landing pages →**](https://skyblue-duck-237936.hostingersite.com/#landings)
 
 <details>
-<summary><b>More identity and production work</b></summary>
+<summary><strong>More design, production and web work</strong></summary>
 
-<br>
+- **[Vexel Digital](https://vexel.digital)** — Creative direction, web development, branding and audiovisual production.
+- **[SecretBloom](https://eflora.lovable.app)** — Flower-shop e-commerce design and development.
+- **Congreso Nacional de Marketing** — Visual identity and stage production for the artificial intelligence track.
+- **Statega** — Corporate visual identity for a digital strategy agency.
+- **GSI Seguridad Privada** — Campaign design and brand communication.
+- **AX Transporter** — A promotional visual system for a tourist transfer brand.
 
-**Congreso Nacional de Marketing** — Visual identity and stage production for the artificial intelligence track.
-
-**Statega** — Corporate identity for a digital strategy agency, with an icon that communicates speed, direction and technology.
-
-**GSI Seguridad Privada** — Campaign pieces built around trust and visual consistency across formats.
-
-**AX Transporter** — Campaign visual system for a tourist transfer brand, focused on comfort, exclusivity and destinations.
-
-[See the full cases in my portfolio →](https://angel-arista-villanueva.lovable.app/#proyectos)
+[See the visual work in my portfolio →](https://skyblue-duck-237936.hostingersite.com/#proyectos)
 
 </details>
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/band-toolkit-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/band-toolkit-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/band-toolkit-dark.svg"><img alt="Toolkit" src="assets/band-toolkit-light.svg" width="100%"></picture>
+## Tools I work with
 
-**Web development** — React, TypeScript and HTML for sites, interfaces and digital platforms. Figma for interface and experience design. VS Code, Codex and Claude as everyday working tools.
+**Development** · TypeScript, React, Astro, HTML, CSS, JavaScript, PHP, MySQL, Git, WordPress, Elementor Pro, Kadence and GoHighLevel.
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/chips-web-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/chips-web-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/chips-web-dark.svg"><img alt="React, TypeScript, HTML, CSS, Figma, Git" src="assets/chips-web-light.svg"></picture>
+**Design & production** · Figma, Illustrator, Photoshop, Affinity, After Effects, Premiere Pro, Blender, Maya and Unreal Engine.
 
-**Design, animation and production** — Blender for 3D modeling and simulation. After Effects and Premiere Pro for motion graphics and editing. Illustrator, Photoshop and Affinity for visual identity and graphic pieces. Particle simulation, visual effects and digital animation, with an engineering foundation underneath.
+**AI & marketing** · Codex, Claude, Cursor, Gemini, Sora, Google Ads, Meta Ads, GA4 and Google Tag Manager.
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/chips-design-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/chips-design-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/chips-design-dark.svg"><img alt="Blender, After Effects, Premiere Pro, Illustrator, Photoshop, Affinity" src="assets/chips-design-light.svg"></picture>
+## Code worth a look
 
-**Marketing, content and AI** — Meta Ads, Google Ads and Google Analytics for campaigns and performance analysis. Content strategy, editorial calendars and community management. AI applied to creative processes and visual content.
-
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/chips-marketing-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/chips-marketing-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/chips-marketing-dark.svg"><img alt="Meta Ads, Google Ads, Google Analytics, Content strategy, AI tooling" src="assets/chips-marketing-light.svg"></picture>
-
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/band-repos-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/band-repos-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/band-repos-dark.svg"><img alt="Repositories" src="assets/band-repos-light.svg" width="100%"></picture>
-
-| Repository | Stack | Notes |
-| :--- | :--- | :--- |
-| [Central-de-Alarmas](https://github.com/angelalberto0775859/Central-de-Alarmas) | HTML | Live at [centraldealarmas.website](https://centraldealarmas.website) |
-| [gsi-seguridad-privada](https://github.com/angelalberto0775859/gsi-seguridad-privada) | TypeScript | Site for a private security company |
-| [export-elementor-pro-json](https://github.com/angelalberto0775859/export-elementor-pro-json) | Python | Agent skill that generates and validates importable Elementor Pro JSON templates |
-| [publicaciones](https://github.com/angelalberto0775859/publicaciones) | TypeScript | Social content and campaign pieces |
-| [Paginasweb](https://github.com/angelalberto0775859/Paginasweb) | Web | Web page editing and front-end work |
+| Repository | What you'll find |
+| :--- | :--- |
+| [Central-de-Alarmas](https://github.com/angelalberto0775859/Central-de-Alarmas) | Web development for Central de Alarmas |
+| [gsi-seguridad-privada](https://github.com/angelalberto0775859/gsi-seguridad-privada) | A private security company's website |
+| [export-elementor-pro-json](https://github.com/angelalberto0775859/export-elementor-pro-json) | An agent skill for generating and validating importable Elementor Pro JSON |
+| [publicaciones](https://github.com/angelalberto0775859/publicaciones) | Social content and campaign work |
+| [Paginasweb](https://github.com/angelalberto0775859/Paginasweb) | Web pages and front-end work |
 
 [Browse all repositories →](https://github.com/angelalberto0775859?tab=repositories)
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/band-contact-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/band-contact-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/band-contact-dark.svg"><img alt="Contact" src="assets/band-contact-light.svg" width="100%"></picture>
+## Have a project in mind?
 
-Open to freelance projects, collaborations and full-time roles.
+Open to freelance projects, collaborations and full-time roles. **English / Español.**
 
-| | |
-| :--- | :--- |
-| **Portfolio & CV** | [angel-arista-villanueva.lovable.app](https://angel-arista-villanueva.lovable.app) — the **Download CV** menu has English and Spanish versions. |
-| **Email** | [angelalberto077@gmail.com](mailto:angelalberto077@gmail.com) |
-| **WhatsApp** | [+52 56 2566 0729](https://wa.me/525625660729) |
-| **LinkedIn** | [Angel Alberto Arista Villanueva](https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/) |
+[**Portfolio & CV**](https://skyblue-duck-237936.hostingersite.com/) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/) &nbsp;·&nbsp; [**WhatsApp**](https://wa.me/525625660729) &nbsp;·&nbsp; [**Email**](mailto:angelalberto077@gmail.com)
 
-For questions about a specific repository, open an issue there. For work or collaboration, email or WhatsApp is the fastest way to reach me.
-
-<br>
-
-<p align="center"><a href="https://www.linkedin.com/in/angel-alberto-arista-villanueva-617432208/"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-linkedin-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-linkedin-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-linkedin-dark.svg"><img alt="LinkedIn" src="assets/ic-linkedin-light.svg" height="40"></picture></a>
-<a href="https://wa.me/525625660729"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-whatsapp-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-whatsapp-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-whatsapp-dark.svg"><img alt="WhatsApp" src="assets/ic-whatsapp-light.svg" height="40"></picture></a>
-<a href="mailto:angelalberto077@gmail.com"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-email-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-email-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-email-dark.svg"><img alt="Email" src="assets/ic-email-light.svg" height="40"></picture></a>
-<a href="https://github.com/angelalberto0775859?tab=repositories"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ic-github-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/ic-github-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/ic-github-dark.svg"><img alt="GitHub repositories" src="assets/ic-github-light.svg" height="40"></picture></a></p>
-
-<p align="center"><sub>Mexico City, Mexico · Engineering, creativity and strategy.</sub></p>
+<sub>Mexico City, Mexico · Engineering, design and digital experiences.</sub>
