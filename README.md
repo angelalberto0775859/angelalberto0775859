@@ -56,6 +56,12 @@ Selected designs from the monthly content calendars for **GSI Seguridad Privada*
 
 </details>
 
+## Paid media & analytics
+
+Experience managing paid media campaigns with **Google Ads** and **Meta Ads**, measuring performance and conversions with **Google Analytics 4** and **Google Tag Manager**, and building dynamic reporting dashboards.
+
+[**Try the interactive paid media dashboard →**](https://skyblue-duck-237936.hostingersite.com/#paid-media) — A clearly labeled demo with sample data: period and channel filters, spend, leads, CPL, CTR, GA4 sessions, simulated campaign budgets and status controls, and CSV export.
+
 ## Tools I work with
 
 **Development** · TypeScript, React, Astro, HTML, CSS, JavaScript, PHP, MySQL, Git, WordPress, Elementor Pro, Kadence and GoHighLevel.
